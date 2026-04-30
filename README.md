@@ -35,7 +35,7 @@
 
 ### 📫 Contact & More
 - **Status**: Currently serving military service (Discharge: July 2026)
-- **Email**: `your-email@example.com` (형님의 이메일로 수정하세요!)
+- **Email**: `your-email@example.com` nameless767304@gmail.com
 - **Goal**: Preparing for TOEFL and exchange student programs.
 
 <br/>
