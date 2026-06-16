@@ -34,9 +34,7 @@
 ---
 
 ### 📫 Contact & More
-- **Status**: Currently serving military service (Discharge: July 2026)
-- **Email**: `your-email@example.com` nameless767304@gmail.com
-- **Goal**: Preparing for TOEFL and exchange student programs.
+- **Email**: nameless767304@gmail.com
 
 <br/>
 
