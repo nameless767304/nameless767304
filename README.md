@@ -29,15 +29,9 @@
 
 ### 🚀 Featured Projects
 
-- **[GukhoeInFocus](https://gukhoeinfocus.com)** — 🔒 private repo · [🌐 Live](https://gukhoeinfocus.com)
+- **[GukhoeInFocus](https://gukhoeinfocus.com)** — private repo · [Link](https://gukhoeinfocus.com)
 - **[CosmosWiki](https://github.com/nameless767304/CosmosWiki)** — Local Graph RAG AI Assistant Platform
   ![Stars](https://img.shields.io/github/stars/nameless767304/CosmosWiki?style=flat-square) ![Language](https://img.shields.io/github/languages/top/nameless767304/CosmosWiki?style=flat-square)
-
----
-
-### 📊 GitHub Stats
-
-![Followers](https://img.shields.io/github/followers/nameless767304?style=for-the-badge&logo=github&label=Followers)
 
 ---
 
