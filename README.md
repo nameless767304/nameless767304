@@ -29,23 +29,15 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/nameless767304/gukhoeinfocus">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=nameless767304&repo=gukhoeinfocus&theme=default" />
-  </a>
-  <a href="https://github.com/nameless767304/CosmosWiki">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=nameless767304&repo=cosmoswiki&theme=default" />
-  </a>
-</p>
+- **[GukhoeInFocus](https://gukhoeinfocus.com)** — 🔒 private repo · [🌐 Live](https://gukhoeinfocus.com)
+- **[CosmosWiki](https://github.com/nameless767304/CosmosWiki)** — Local Graph RAG AI Assistant Platform
+  ![Stars](https://img.shields.io/github/stars/nameless767304/CosmosWiki?style=flat-square) ![Language](https://img.shields.io/github/languages/top/nameless767304/CosmosWiki?style=flat-square)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/?username=nameless767304&show_icons=true&theme=default" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameless767304&layout=compact&theme=default" />
-</p>
+![Followers](https://img.shields.io/github/followers/nameless767304?style=for-the-badge&logo=github&label=Followers)
 
 ---
 
