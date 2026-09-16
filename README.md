@@ -11,28 +11,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- **[GukhoeInFocus](https://github.com/nameless767304/GukhoeInFocus)**: AI-powered South Korean legislative bill summarizer and politician statistics platform.
-- **[ZERO PROOF](https://github.com/nameless767304/ZERO-PROOF)**: A platform monitoring DUI sentencing data and providing legal document assistance for victims.
-- **[LeetCode Solutions](https://github.com/nameless767304/LeetCode-Solutions)**: Daily algorithm problem-solving automated via GitHub Actions.
-
----
-
-### 🛠 Tech Stack & Tools
-- **Frontend**: Next.js, React, Tailwind CSS
-- **Backend & Database**: Supabase, Python, SQL
-- **Automation**: GitHub Actions (CI/CD)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nameless767304&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777" alt="Gun-woo's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameless767304&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Contact & More
 - **Email**: nameless767304@gmail.com
 
